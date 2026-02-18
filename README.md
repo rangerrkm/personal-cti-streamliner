@@ -1,4 +1,8 @@
-# Personal Cyber Threat Intelligence (CTI) Streamliner
+# [ARCHIVED] Personal CTI Streamliner
+
+> **Status:** This project is now a legacy module and has been merged into my primary repository: [[Blue_Team_Hunting_Field_Notes]](https://github.com/bitbug0x55AA/Blue_Team_Hunting_Field_Notes.git). No further independent updates or feature developments (e.g., Python automation, OpenCTI integration) are planned here.
+
+**Current stable features (FreshRSS + Feed Lists) are now maintained under `09_Automation_Vault/9.3_Tooling_and_Pipelines/CTI_Streamliner` in the main repo.**
 
 ![CTI Streamliner Dashboard](./Assets/Pictures/Page_Screenshot.jpg)
 
@@ -72,6 +76,3 @@ My daily process with this system is analyst-driven:
 2.  **Targeted Research:** Instead of browsing all feeds, I use my **Bookmarked Searches** to pull exactly what I need. For instance, if I want the latest research on malware, I simply click the "Malware Analysis" bookmark. This instantly filters thousands of articles across all my P1 and P2 feeds to show only the most relevant reports.
 
 This approach keeps my main feed clean and allows me to conduct targeted research with incredible speed and efficiency.
-
-## Note
-Project logic merged into [[Blue_Team_Hunting_Field_Notes]](https://github.com/bitbug0x55AA/Blue_Team_Hunting_Field_Notes.git) as a module. No further independent updates planned.
