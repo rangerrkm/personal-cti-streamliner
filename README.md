@@ -73,11 +73,5 @@ My daily process with this system is analyst-driven:
 
 This approach keeps my main feed clean and allows me to conduct targeted research with incredible speed and efficiency.
 
-## Next Steps: The Automated CTI Pipeline
-
-This project serves as a solid foundation for information aggregation. The next logical evolution is to build a complete, end-to-end automated threat intelligence pipeline.
-
-This new project, currently under development, will:
-1.  Use a Python script to extract trusted reports from the FreshRSS instance.
-2.  Leverage **MITRE TRAM** to process unstructured text and extract structured TTPs, malware, and threat actor information.
-3.  Load this structured intelligence into an **OpenCTI** instance to build a dynamic threat knowledge graph.
+## Note
+Project logic merged into [[Blue_Team_Hunting_Field_Notes]](https://github.com/bitbug0x55AA/Blue_Team_Hunting_Field_Notes.git) as a module. No further independent updates planned.
