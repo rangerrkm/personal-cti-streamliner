@@ -1,10 +1,4 @@
-# [ARCHIVED] Personal CTI Streamliner
-
-> **Status:** This project is now a legacy module and has been merged into my primary repository: [[Blue_Team_Hunting_Field_Notes]](https://github.com/bitbug0x55AA/Blue_Team_Hunting_Field_Notes.git). No further independent updates or feature developments (e.g., Python automation, OpenCTI integration) are planned here.
-
-**Current stable features (FreshRSS + Feed Lists) are now maintained under `09_Automation_Vault/9.3_Tooling_and_Pipelines/CTI_Streamliner` in the main repo.**
-
-![CTI Streamliner Dashboard](./Assets/Pictures/Page_Screenshot.jpg)
+Personal CTI Streamliner
 
 A streamlined, self-hosted system for aggregating, filtering, and categorizing high-value Cyber Threat Intelligence (CTI) feeds. This repository contains not only the Docker setup but also a curated list of CTI feeds (OPML) and the specific search queries needed to build an effective, on-demand intelligence dashboard.
 
@@ -38,7 +32,7 @@ This provides a centralized and clean dashboard for targeted threat intelligence
 ### Installation
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/taof211/personal-cti-streamliner.git](https://github.com/taof211/personal-cti-streamliner.git)
+    git clone https://github.com/taof211/personal-cti-streamliner.git
     cd personal-cti-streamliner
     ```
 2.  Start the FreshRSS container in detached mode:
